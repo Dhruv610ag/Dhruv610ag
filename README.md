@@ -49,6 +49,11 @@ I am a **Artificial And Machine Learning Enthusiast**
 
 --- 
 
+## GitHub Tropies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhruv610ag&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📊 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhruv610ag&color=blue)  
 
