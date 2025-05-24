@@ -11,10 +11,10 @@ I am a **Artificial And Machine Learning Enthusiast**
 
  <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-agarwal-773b32287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
   <a href="mailto:dhruv610agg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
   </a>
 </p>
 
