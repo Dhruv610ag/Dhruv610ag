@@ -23,22 +23,22 @@ I am a **Artificial And Machine Learning Enthusiast**
 ## 💻 Tech Stack  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Matplotlib-%23FF9800.svg?style=flat&logo=matplotlib&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Overleaf-%2300C471.svg?style=flat&logo=overleaf&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikitlearn&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" height="30">
- <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Matplotlib-%23FF9800.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Overleaf-%2300C471.svg?style=for-the-badge&logo=overleaf&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="30">
+ <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30">
 </p>
 
 ---
@@ -52,12 +52,14 @@ I am a **Artificial And Machine Learning Enthusiast**
 --- 
 
 ## GitHub Tropies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhruv610ag&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Dhruv610ag&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=Dhruv610ag&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 📊 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Dhruv610ag&color=blue)  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dhruv610ag) 
 
 ---
 
