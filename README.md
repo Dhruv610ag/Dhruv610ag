@@ -25,42 +25,6 @@ I am a **Artificial And Machine Learning Enthusiast**
 <head>
   <meta charset="UTF-8">
   <title>Tech Stack</title>
-  <style>
-    .tech-stack {
-      max-width: 1000px;
-      margin: auto;
-      text-align: center;
-      font-family: 'Segoe UI', sans-serif;
-    }
-
-    .category {
-      margin: 30px 0 10px;
-      font-size: 1.3em;
-      color: #333;
-      font-weight: 600;
-      border-bottom: 2px solid #eee;
-      padding-bottom: 5px;
-    }
-
-    .badges {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 12px;
-      margin-top: 10px;
-    }
-
-    .badge {
-      height: 35px;
-      border-radius: 8px;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .badge:hover {
-      transform: scale(1.08);
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-    }
-  </style>
 </head>
 <body>
 
