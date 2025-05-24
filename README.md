@@ -19,28 +19,38 @@ I am a **Artificial And Machine Learning Enthusiast**
 </p>
 
 ---
-## Teach Stack
+## 🎓 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Matplotlib-%23FF9800.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Overleaf-%2300C471.svg?style=for-the-badge&logo=overleaf&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="30">
- <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30">
-</p>
-can you make this batch more attractive
-
+<div align="center">
+  <table>
+    <tr><th colspan="2">Languages & Web</th><th colspan="2">Libraries & Frameworks</th></tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="30"></td>
+    </tr>
+    <tr><th colspan="4">Data Science & Tools</th></tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Matplotlib-%23FF9800.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" height="30"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Overleaf-%2300C471.svg?style=for-the-badge&logo=overleaf&logoColor=white" height="30"></td>
+      <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="30"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -49,10 +59,9 @@ can you make this batch more attractive
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv610ag&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv610ag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 --- 
 
-## GitHub Tropies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhruv610ag&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
