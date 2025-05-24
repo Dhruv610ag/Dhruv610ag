@@ -44,8 +44,9 @@ I am a **Artificial And Machine Learning Enthusiast**
 ---
 
 ## 📊 GitHub Stats  
-
-![Dhruv GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv610ag&show_icons=true&theme=radical&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=Dhruv610ag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv610ag&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv610ag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 --- 
