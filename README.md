@@ -20,33 +20,85 @@ I am a **Artificial And Machine Learning Enthusiast**
 
 ---
 
-## 💻 Tech Stack  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tech Stack</title>
+  <style>
+    .tech-stack {
+      max-width: 1000px;
+      margin: auto;
+      text-align: center;
+      font-family: 'Segoe UI', sans-serif;
+    }
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="30">
-  <br><br>
+    .category {
+      margin: 30px 0 10px;
+      font-size: 1.3em;
+      color: #333;
+      font-weight: 600;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+    }
 
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Matplotlib-%23FF9800.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="30">
-  <br><br>
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 10px;
+    }
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Overleaf-%2300C471.svg?style=for-the-badge&logo=overleaf&logoColor=white" height="30">
-</p>
+    .badge {
+      height: 35px;
+      border-radius: 8px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .badge:hover {
+      transform: scale(1.08);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    }
+  </style>
+</head>
+<body>
+
+<div class="tech-stack">
+  <h2>🚀 Tech Stack</h2>
+
+  <div class="category">🖥️ Programming & Web</div>
+  <div class="badges">
+    <img class="badge" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
+  </div>
+
+  <div class="category">📊 Data Science & ML</div>
+  <div class="badges">
+    <img class="badge" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/Matplotlib-%23FF9800.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
+  </div>
+
+  <div class="category">🛠️ Tools</div>
+  <div class="badges">
+    <img class="badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
+    <img class="badge" src="https://img.shields.io/badge/Overleaf-%2300C471.svg?style=for-the-badge&logo=overleaf&logoColor=white">
+  </div>
+</div>
+
+</body>
+</html>
+
 
 
 ---
