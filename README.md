@@ -1,25 +1,15 @@
-# 🌟About ME :
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-
-<div align="center">
-  <strong>I am a Generative AI & Machine Learning Enthusiast</strong>
+<h3 align="center"><strong>I am a Generative AI & Machine Learning Enthusiast</strong></h3>
+<div>
+  <img align="right" src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxqaHNreHkwN204YTgyZ2VpZDZkeXl4aGV6eTIwZG9oc3phMGdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)" width="150">
 </div>
 
-<br>
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-
   ☕ Turning coffee into code and bugs into features.<br>
   🧠 Ctrl + C my brain, Ctrl + V into your project.<br>
   💬 Ask me about anything.<br>
   ⚡ Fun fact: I once fixed a bug that didn’t exist — just to remind the code who’s boss.<br>
-
-  </div>
-
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxqaHNreHkwN204YTgyZ2VpZDZkeXl4aGV6eTIwZG9oc3phMGdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="100"/>
 </div>
-
 
 
 ---
