@@ -38,6 +38,28 @@
 
 ---
 
+## 🤝 Connect with Me
+<p>Let me know if you wanna connect — I'm always up for a great tech chat or collaboration!</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/610dhruv) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/dhruv-agarwal-773b32287) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruv610agg@gmail.com) 
+
+---
+
+## 📌 How to Use
+
+🚀 Want to have an awesome GitHub profile like this?
+
+1. Create a new repository with the **same name as your GitHub username** (for example: `Dhruv610ag`).
+2. Inside that repo, add a file named `README.md`.
+3. Paste this entire code (like you're seeing here) into the `README.md`.
+4. Commit and push the changes to GitHub.
+
+💥 Boom! Your GitHub profile will now show this README as the landing page. Happy building! 😎
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Dhruv610ag&icon=1&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
