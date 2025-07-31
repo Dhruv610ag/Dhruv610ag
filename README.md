@@ -1,12 +1,22 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h4 align="center">👨‍💻 I am Generative Ai and Machine Learning Enthusiast<br></h4>
-<p>
-  🚀 Turning coffee into code and bugs into features.<br>
-  🧠 Ctrl + C my brain, Ctrl + V into your project.<br>
-  💬 Ask me about anything<br>
-  📌 One repo at a time, making the web a better place.<br>
-</p>
+<h4 align="center">👨‍💻 I am Generative AI and Machine Learning Enthusiast</h4>
+
+<table>
+  <tr>
+    <td>
+      <p>
+        🚀 Turning coffee into code and bugs into features.<br>
+        🧠 Ctrl + C my brain, Ctrl + V into your project.<br>
+        💬 Ask me about anything<br>
+        📌 One repo at a time, making the web a better place.<br>
+      </p>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxqaHNreHkwN204YTgyZ2VpZDZkeXl4aGV6eTIwZG9oc3phMGdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
