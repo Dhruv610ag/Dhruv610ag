@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center"><strong>I am a Generative AI & Machine Learning Enthusiast</strong></h3>
 <div>
-  <img align="right" src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxqaHNreHkwN204YTgyZ2VpZDZkeXl4aGV6eTIwZG9oc3phMGdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)" width="150">
-</div>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VmbHE0emx5MmJoNjdrZHJ6OTVmY3dyYmVpcXN0NGR0b2F5dGhhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="230" height="230">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  ☕ Turning coffee into code and bugs into features.<br>
-  🧠 Ctrl + C my brain, Ctrl + V into your project.<br>
-  💬 Ask me about anything.<br>
-  ⚡ Fun fact: I once fixed a bug that didn’t exist — just to remind the code who’s boss.<br>
+👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-website-jade-xi.vercel.app/)<br></br>
+☕️ Turning coffee into code and bugs into features.<br><br>🧠 Ctrl + C my brain, Ctrl + V into your project.<br><br>💬 Ask me about anything <br><br>⚡ Fun fact:  🧃 Fun Fact: My code runs perfectly… until someone else looks at it.<br>
 </div>
-
 
 ---
 
