@@ -1,6 +1,12 @@
 # 💫 About Me:
-# Hi 👋, I'm Dhruv<br>
-👨‍💻I am  Generative Ai and Machine Learning Enthusiast<br>🚀 Turning coffee into code and bugs into features.<br>🧠 Ctrl + C my brain, Ctrl + V into your project.<br>💬 Ask me about anything<br>📌 One repo at a time, making the web a better place.<br><br><br> <br>
+<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h4 align="center">👨‍💻 I am Generative Ai and Machine Learning Enthusiast<br></h4>h4>
+<p>
+  🚀 Turning coffee into code and bugs into features.<br>
+  🧠 Ctrl + C my brain, Ctrl + V into your project.<br>
+  💬 Ask me about anything<br>
+  📌 One repo at a time, making the web a better place.<br>
+</p>
 
 
 ## 🌐 Socials:
@@ -18,6 +24,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhruv610ag&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 👁️ Profile View Counter
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=Dhruv610ag&label=Profile%20Views&color=8&icon=5&pretty=true" alt="Profile View Counter"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv610ag&icon=1&color=8)](https://visitcount.itsvg.in)
