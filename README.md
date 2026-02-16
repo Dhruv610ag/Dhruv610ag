@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center"><strong>I am a Generative AI & Machine Learning Enthusiast</strong></h3>
 <div>
-  <img align="right" src="![CatComputerGIF](https://github.com/user-attachments/assets/93cb4047-5aee-4c59-b4c0-f618d5ef87ee)
+  <img align="right" src="https://github.com/user-attachments/assets/93cb4047-5aee-4c59-b4c0-f618d5ef87ee
 " width="200" height="200">
 
 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-website-jade-xi.vercel.app/)<br></br>
